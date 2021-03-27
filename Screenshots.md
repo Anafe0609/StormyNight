@@ -7,4 +7,3 @@ sidebar_link: true
 ![my screenshot2](/assets/images/screenshot2.png)
 ![my screenshot3](/assets/images/screenshot3.png)
 ![my screenshot4](/assets/images/screenshot4.png)
-published2
