@@ -4,4 +4,4 @@ title: Work Display
 sidebar_link: true
 ---
 
-<iframe width = 410 height = 410 src="https://editor.p5js.org/Anafe0609/embed/vJrnZv_i7"></iframe>
+<iframe width = 410 height = 410 frameBorder="0" src="https://editor.p5js.org/Anafe0609/embed/vJrnZv_i7"></iframe>
