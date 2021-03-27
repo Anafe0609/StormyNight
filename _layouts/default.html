@@ -1,4 +1,4 @@
 <{% if page.layout == "index" %}h1{% else %}div{% endif %} class="site-title"> {% unless page.url == "/" %} {% include svg/back-arrow.svg %} {% endunless %} {{ site.title }}
 {{ site.description }}
 
-{% include sidebar-nav-links.html %} {% if site.version %} Currently v{{ site.version }} {% endif %} 
+{% include sidebar-nav-links.html %} {% if site.version %} Currently v{{ site.version }} {% endif %} {% include sidebar-icon-links.html %} {% include copyright.html %}
